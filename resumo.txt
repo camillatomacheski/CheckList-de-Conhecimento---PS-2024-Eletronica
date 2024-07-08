@@ -1,28 +1,21 @@
 RESUMO DO REGULAMENTO DA PARTE ELÉRTRICA DO BAJA
 
 -> Requisitos gerais:
-O sistema deve ter no minímo duas chaves gerais (que desative a ignição do motor), uma luz de feio
-e uma bateria.
+O sistema deve ter no minímo duas chaves gerais (que desative a ignição do motor), uma luz de feio e uma bateria.
 
 -> itens de segurança: Luz de freio, luz e alarme de ré.
 -> Sistemas de instrumentação: Painel, telemetria, registrador de dados, etc.
 
 -> Bateria:
-- As baterias devem estar bem fixadas e protegidas de exposição solar, fontes de calor, combustível.
-óleo, água, poeira, etc.
-- Elas devem fornecer energia aos itens de segurança em cada evento de uma competição, caso contrário
-recebem uma bandeira preta ou laranja.
-- Não pode ter uma capacidade superior a de 240 W.h e a soma de todas as baterias não pode ultrapassar
-360 W.h.
+- As baterias devem estar bem fixadas e protegidas de exposição solar, fontes de calor, combustível, óleo, água, poeira, etc.
+- Elas devem fornecer energia aos itens de segurança em cada evento de uma competição, caso contrário recebem uma bandeira preta ou laranja.
+- Não pode ter uma capacidade superior a de 240 W.h e a soma de todas as baterias não pode ultrapassar 360 W.h.
 - A combinação de mais de uma bateria ou célula será considerada uma apenas uma bateria.
 - As baterias individuais devem ser seladas, não podendo vazar de jeito nenhum. 
    -> Bterias com composto de lítio:
-   - Elas devem estar atrás da parede corta-fogo e abaixo da proteção de derrame. E precisa estar dentro
-   de invólucros fechados. 
-   - É preciso que a bateria esteja dentro do ivóucro protetor para que possa ser recarregada durante a 
-   comptição.
-   - Não serão permitidas baterias que apresentem sinais de corrosão, danos estruturais, fios soltos ou
-   sem isolação ou com a bateia estufada.
+   - Elas devem estar atrás da parede corta-fogo e abaixo da proteção de derrame. E precisa estar dentro de invólucros fechados. 
+   - É preciso que a bateria esteja dentro do ivóucro protetor para que possa ser recarregada durante a comptição.
+   - Não serão permitidas baterias que apresentem sinais de corrosão, danos estruturais, fios soltos ou sem isolação ou com a bateia estufada.
 
 -> Chaves gerais:
 - A luz de freio e a luz e alarme de marcha ré não podem ser desativados pela chave geral. 
@@ -32,35 +25,32 @@ recebem uma bandeira preta ou laranja.
    - As adcionais não podem interferir nas obrigatóias.
    -> Posicionamento das chaves gerais:
    - No habitáculo: Precisa estar na frente do mesmo, de fácil acesso ao piloto.
-   - Externa: Precisa estar no lado direito do veículo, não pode estar abaixo de 178 mm do ponto Br e ser
-   de fácil acesso as pessoas externas.
+   - Externa: Precisa estar no lado direito do veículo, não pode estar abaixo de 178 mm do ponto Br e ser de fácil acesso as pessoas externas.
    - Devem ser fixidas rigidamente e sem arestas cortantes por perto.
    ->Luz de freio:
-   - Ela deve ser de LED (há algumas alternativas) e reconhecida como automotiva. Precisa acender quando
-   o freio for acionado e apagada quando o mesmo for desacionado. 
+   - Ela deve ser de LED (há algumas alternativas) e reconhecida como automotiva. Precisa acender quando o freio for acionado e apagada quando
+   o mesmo for desacionado. 
    - Deve ser colocada a no mínimo um metro de altura e ser vista facilmente em uma distancia de 20 m.
    -> Interruptor da luz de freio:
-   - Deve ser ativada por um interruptor de pressão hidráulica, onde deve ter uma ligação elétrica exclusiva
-   para que a luz sempre acenda quando houver a pressão no circuito hidráulico, mesmo se outro falhar.
+   - Deve ser ativada por um interruptor de pressão hidráulica, onde deve ter uma ligação elétrica exclusiva para que a luz sempre acenda quando
+   houver a pressão no circuito hidráulico, mesmo se outro falhar.
    - Interruptores de acionamento mecânico não são permitidos.
-   - A conexão elétrica do sensor de pressão com o chicote precisa ser feita por um conector específico ou
-   soldado, sendo essa conexão resistente à vibração.
+   - A conexão elétrica do sensor de pressão com o chicote precisa ser feita por um conector específico ou soldado, sendo essa conexão resistente 
+   à vibração.
    -> Luz e alarme de marcha ré:
-   - O veículo que tiver marcha ré deve ter uma luz de ré com a escrita "SAE R", intalada a no mínimo 0,7 m 
-   de altura do solo. Ele também deve ter um alarme de ré.
+   - O veículo que tiver marcha ré deve ter uma luz de ré com a escrita "SAE R", intalada a no mínimo 0,7 m de altura do solo. Ele também deve ter 
+   um alarme de ré.
    -> Dispositivos de proteção contra sobrecorrente:
-   - É obrigatório o uso de no mínimo um dispositivo de proteção geral em cada uma das baterias com uma 
-   capacidade mínima de 800 mA.h,
+   - É obrigatório o uso de no mínimo um dispositivo de proteção geral em cada uma das baterias com uma capacidade mínima de 800 mA.h,
    -> Chicote:
       -> Chicote de segurança:
-      - Os chicotes usados para os itens de segurança precisam ser de cobre eletrolítico flexível, com 
-      isolamento mínimo contra 70 °C/250 V, resistênte à uma tração de 0,32 mm²/22 AWG. Ele também precisa
-      estar envolto por um tubo automotivo.
-      - Os conectores devem estar selados. Chaves gerais com conexões por parafuso devem utilizar terminais
-      forquilha e pontos de aterramento devem utilizar terminais olhal, todos soldados ou crimpados.
+      - Os chicotes usados para os itens de segurança precisam ser de cobre eletrolítico flexível, com  isolamento mínimo contra 70 °C/250 V, resistênte 
+      à uma tração de 0,32 mm²/22 AWG. Ele também precisa estar envolto por um tubo automotivo.
+      - Os conectores devem estar selados. Chaves gerais com conexões por parafuso devem utilizar terminais forquilha e pontos de aterramento devem 
+      utilizar terminais olhal, todos soldados ou crimpados.
       -> Todos os chicotes (segurança ou instrumentação):
       - Derivações devem ser soldadas e isoladas.
-      - O chicote precisar estar roteaso e afixado com abraçadeiras. E em caso dele enfrentar temperaturas 
-      superiores a 70°C os cabos devem ser selecionados e envoltos por uma fita de tecido.
+      - O chicote precisar estar roteaso e afixado com abraçadeiras. E em caso dele enfrentar temperaturas superiores a 70°C os cabos devem ser selecionados 
+      e envoltos por uma fita de tecido.
 
 
